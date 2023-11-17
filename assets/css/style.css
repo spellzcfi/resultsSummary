@@ -8,13 +8,14 @@ body{
 }
 
 .resultContainer{
-  width: 110vw;
+  width: 90vw;
   background-color: white;
   margin: auto;
 }
 
 .result{
   display: grid;
+  margin: auto;
 }
 
 .scoreContainer{
